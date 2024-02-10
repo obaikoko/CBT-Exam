@@ -1,0 +1,1 @@
+This program uses the readline module for handling user input. i used  Node.js environment, and it will prompt users with questions, allowing them to choose their answers. The program will provide feedback on whether the answer is correct and display the total score at the end.

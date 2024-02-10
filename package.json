@@ -1,0 +1,11 @@
+{
+  "name": "webdev-exam",
+  "version": "1.0.0",
+  "description": "Exam from Citadel Calabar Branch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igweachi Jesse Obinna",
+  "license": "ISC"
+}
